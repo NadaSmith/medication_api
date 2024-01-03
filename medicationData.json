@@ -1,0 +1,2102 @@
+[
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Furosemide",
+        "Brand Name": "Furosemide oral",
+        "Side Effect 1": "Increased urination",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Gemfibrozil",
+        "Brand Name": "Gemfibrozil",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Hydralazine",
+        "Brand Name": "Hydralazine",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Loss of appetite"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Hydrochlorothiazide",
+        "Brand Name": "Hydrochlorothiazide",
+        "Side Effect 1": "Increased urination",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Irbesartan",
+        "Brand Name": "Avapro",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Lightheadedness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Isosorbide Mononitrate",
+        "Brand Name": "Isosorbide mononitrate",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Labetalol",
+        "Brand Name": "Labetalol",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Weakness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Lisinopril",
+        "Brand Name": "Lisinopril",
+        "Side Effect 1": "Cough",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Losartan",
+        "Brand Name": "Cozaar",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Fatigue"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Lovastatin",
+        "Brand Name": "Lovastatin",
+        "Side Effect 1": "Muscle pain",
+        "Side Effect 2": "Weakness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Metoprolol",
+        "Brand Name": "Metoprolol succinate",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Fatigue"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Nebivolol",
+        "Brand Name": "Bystolic",
+        "Side Effect 1": "Fatigue",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Niacin",
+        "Brand Name": "Niaspan",
+        "Side Effect 1": "Flushing",
+        "Side Effect 2": "Upset stomach"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Nifedipine",
+        "Brand Name": "Nifedipine ER",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Flushing"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Nitroglycerin",
+        "Brand Name": "Nitroglycerin",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Olmesartan",
+        "Brand Name": "Benicar",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Diarrhea"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Omega-3-Ethyl Esters",
+        "Brand Name": "Lovaza",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Burping"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Prasugrel",
+        "Brand Name": "Effient",
+        "Side Effect 1": "Bleeding",
+        "Side Effect 2": "Shortness of breath"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Pravastatin",
+        "Brand Name": "Pravastatin",
+        "Side Effect 1": "Muscle pain",
+        "Side Effect 2": "Weakness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Propranolol",
+        "Brand Name": "Propranolol HCl",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Fatigue"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Quinapril",
+        "Brand Name": "Quinapril",
+        "Side Effect 1": "Cough",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Ramipril",
+        "Brand Name": "Ramipril",
+        "Side Effect 1": "Cough",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Ranolazine",
+        "Brand Name": "Ranexa",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Rivaroxaban",
+        "Brand Name": "Xarelto",
+        "Side Effect 1": "Bleeding",
+        "Side Effect 2": "Bruising"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Rosuvistatin",
+        "Brand Name": "Crestor",
+        "Side Effect 1": "Muscle pain",
+        "Side Effect 2": "Abdominal pain"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Simvastatin",
+        "Brand Name": "Simvastatin",
+        "Side Effect 1": "Muscle pain",
+        "Side Effect 2": "Weakness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Spironolactone",
+        "Brand Name": "Spironolactone",
+        "Side Effect 1": "Increased urination",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Terazosin",
+        "Brand Name": "Terazosin",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Fatigue"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Tolvaptan",
+        "Brand Name": "Samsca",
+        "Side Effect 1": "Thirst",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Triamterene/Hydrochlorothiazide",
+        "Brand Name": "Triamterene w/HCTZ",
+        "Side Effect 1": "Increased urination",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Valsartan",
+        "Brand Name": "Diovan",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Fatigue"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Verapamil",
+        "Brand Name": "Verapamil SR",
+        "Side Effect 1": "Constipation",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Warfarin",
+        "Brand Name": "Warfarin",
+        "Side Effect 1": "Bleeding",
+        "Side Effect 2": "Bruising"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Albuterol",
+        "Brand Name": "ProAir HFA",
+        "Side Effect 1": "Shakiness",
+        "Side Effect 2": "Increased heart rate"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Azelastine",
+        "Brand Name": "Astelin",
+        "Side Effect 1": "Bitter taste",
+        "Side Effect 2": "Nosebleeds"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Budesonide",
+        "Brand Name": "Pulmicort Respules",
+        "Side Effect 1": "Hoarseness",
+        "Side Effect 2": "Cough"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Budesonide/Formoterol",
+        "Brand Name": "Symbicort",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Tremor"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Cetirizine",
+        "Brand Name": "Cetirizine",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Fexofenadine",
+        "Brand Name": "Fexofenadine",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Fluticasone Nasal",
+        "Brand Name": "Fluticasone nasal",
+        "Side Effect 1": "Nosebleeds",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Fluticasone Oral",
+        "Brand Name": "Flovent HFA",
+        "Side Effect 1": "Sore throat",
+        "Side Effect 2": "Hoarseness"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Fluticasone/Salmeterol",
+        "Brand Name": "Advair Diskus",
+        "Side Effect 1": "Thrush (yeast infection in the mouth)",
+        "Side Effect 2": "Hoarseness"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Hydroxyzine",
+        "Brand Name": "Hydroxyzine",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Ipratropium/Albuterol",
+        "Brand Name": "Combivent",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Levalbuterol",
+        "Brand Name": "Xopenex HFA",
+        "Side Effect 1": "Shakiness",
+        "Side Effect 2": "Increased heart rate"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Levocetirizine",
+        "Brand Name": "Xyzal",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Mometasone",
+        "Brand Name": "Nasonex",
+        "Side Effect 1": "Nosebleeds",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Montelukast",
+        "Brand Name": "Singulair",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Abdominal pain"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Olopatadine",
+        "Brand Name": "Patanol",
+        "Side Effect 1": "Eye irritation",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Tiotropium",
+        "Brand Name": "Spiriva",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Triamcinolone Nasal",
+        "Brand Name": "Nasacort AQ",
+        "Side Effect 1": "Nosebleeds",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Dexmethylphenidate",
+        "Brand Name": "Focalin XR",
+        "Side Effect 1": "Insomnia",
+        "Side Effect 2": "Decreased appetite"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Dicyclomine",
+        "Brand Name": "Dicyclomine HCl",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Blurred vision"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Divalproex",
+        "Brand Name": "Divalproex sodium",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Donepezil",
+        "Brand Name": "Aricept",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Doxepin",
+        "Brand Name": "Doxepin",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Duloxetine",
+        "Brand Name": "Cymbalta",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Dutasteride",
+        "Brand Name": "Avodart",
+        "Side Effect 1": "Impotence",
+        "Side Effect 2": "Decreased libido"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Eletriptan",
+        "Brand Name": "Relpax",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Escitalopram",
+        "Brand Name": "Lexapro",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Eszopiclone",
+        "Brand Name": "Lunesta",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Fluoxetine",
+        "Brand Name": "Fluoxetine",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Gabapentin",
+        "Brand Name": "Gabapentin",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Lacosamide",
+        "Brand Name": "Vimpat",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Lamotrigine",
+        "Brand Name": "Lamotrigine",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Levetiracetam",
+        "Brand Name": "Levetiracetam",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Weakness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Lisdexamfetamine",
+        "Brand Name": "Vyvanse",
+        "Side Effect 1": "Insomnia",
+        "Side Effect 2": "Decreased appetite"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Lithium carbonate",
+        "Brand Name": "Lithium carbonate",
+        "Side Effect 1": "Hand tremor",
+        "Side Effect 2": "Increased thirst"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Lorazepam",
+        "Brand Name": "Lorazepam",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Loss of coordination"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Meclizine",
+        "Brand Name": "Meclizine HCl",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Memantine",
+        "Brand Name": "Namenda",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Metaxalone",
+        "Brand Name": "Skelaxin",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Methylphenidate",
+        "Brand Name": "Methylphenidate",
+        "Side Effect 1": "Insomnia",
+        "Side Effect 2": "Decreased appetite"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Mirtazapine",
+        "Brand Name": "Mirtazapine",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Increased appetite"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Modafinil",
+        "Brand Name": "Provigil",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Nortriptyline",
+        "Brand Name": "Nortriptyline",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Olanzapine",
+        "Brand Name": "Zyprexa",
+        "Side Effect 1": "Weight gain",
+        "Side Effect 2": "Increased appetite"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Oxcarbazepine",
+        "Brand Name": "Oxcarbazepine",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Oxybutynin",
+        "Brand Name": "Oxybutynin chloride",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Paroxetine",
+        "Brand Name": "Paroxetine",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Phenobarbital",
+        "Brand Name": "Phenobarbital",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Phentermine",
+        "Brand Name": "Phentermine",
+        "Side Effect 1": "Increased heart rate",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Phenytoin",
+        "Brand Name": "Phenytoin sodium ext",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Pramipexole",
+        "Brand Name": "Mirapex",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Pregabalin",
+        "Brand Name": "Lyrica",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Prochlorperazine",
+        "Brand Name": "Prochlorperazine maleate",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Promethazine",
+        "Brand Name": "Promethazine tabs",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Quetiapine",
+        "Brand Name": "Seroquel",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Weight gain"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Risperidone",
+        "Brand Name": "Risperidone",
+        "Side Effect 1": "Weight gain",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Ropinirole",
+        "Brand Name": "Ropinirole HCl",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Sertraline",
+        "Brand Name": "Sertraline",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Solifenacin",
+        "Brand Name": "Vesicare",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Temazepam",
+        "Brand Name": "Temazepam",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Topiramate",
+        "Brand Name": "Topiramate",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Trazodone",
+        "Brand Name": "Trazodone HCl",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Varenicline",
+        "Brand Name": "Chantix",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Venlafaxine",
+        "Brand Name": "Venlafaxine",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Vilazodone",
+        "Brand Name": "Viibryd",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Diarrhea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Ziprasidone",
+        "Brand Name": "Geodon Oral",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Zolpidem",
+        "Brand Name": "Zolpidem tartrate",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Alendronate",
+        "Brand Name": "Alendronate",
+        "Side Effect 1": "Difficulty swallowing",
+        "Side Effect 2": "Upset stomach"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Conjugated Estrogen",
+        "Brand Name": "Premarin tabs",
+        "Side Effect 1": "Breast pain",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Cyanocobalamin",
+        "Brand Name": "Cyanocobalamin",
+        "Side Effect 1": "Redness or pain at the injection site",
+        "Side Effect 2": "Diarrhea"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Dexamethasone",
+        "Brand Name": "Dexamethasone oral",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Increased appetite"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Estradiol Oral",
+        "Brand Name": "Estradiol oral",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Breast tenderness"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Estradiol Transdermal Patch",
+        "Brand Name": "Vivelle-DOT",
+        "Side Effect 1": "Skin irritation at the patch site",
+        "Side Effect 2": "Breast pain"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Ethinyl Estradiol/Etonogestrel Ring",
+        "Brand Name": "Nuvaring",
+        "Side Effect 1": "Vaginal irritation",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Exenatide",
+        "Brand Name": "Byetta",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Diarrhea"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Folic Acid",
+        "Brand Name": "Folic acid",
+        "Side Effect 1": "Bloating",
+        "Side Effect 2": "Loss of appetite"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Glimepiride",
+        "Brand Name": "Glimepiride",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Glipizide",
+        "Brand Name": "Glipizide",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Ibandronate",
+        "Brand Name": "Boniva",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Pain in the bones or muscles"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Insulin",
+        "Brand Name": "Humulin N",
+        "Side Effect 1": "Hypoglycemia (low blood sugar)",
+        "Side Effect 2": "Injection site reactions"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Insulin Aspart",
+        "Brand Name": "NovoLog",
+        "Side Effect 1": "Hypoglycemia (low blood sugar)",
+        "Side Effect 2": "Injection site reactions"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Insulin Detemir",
+        "Brand Name": "Levemir",
+        "Side Effect 1": "Hypoglycemia (low blood sugar)",
+        "Side Effect 2": "Injection site reactions"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Insulin Glargine",
+        "Brand Name": "Lantus",
+        "Side Effect 1": "Hypoglycemia (low blood sugar)",
+        "Side Effect 2": "Injection site reactions"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Insulin Lispro",
+        "Brand Name": "Humalog",
+        "Side Effect 1": "Hypoglycemia (low blood sugar)",
+        "Side Effect 2": "Injection site reactions"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Levothyroxine",
+        "Brand Name": "Levothyroxine",
+        "Side Effect 1": "Hair loss",
+        "Side Effect 2": "Weight changes"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Linagliptin",
+        "Brand Name": "Tradjenta",
+        "Side Effect 1": "Upper respiratory tract infection",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Liraglutide",
+        "Brand Name": "Victoza",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Diarrhea"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Medroxyprogesterone Oral",
+        "Brand Name": "Medroxyprogesterone tab",
+        "Side Effect 1": "Changes in menstrual bleeding",
+        "Side Effect 2": "Weight changes"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Metformin",
+        "Brand Name": "Metformin",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Diarrhea"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Methylprednisolone Oral",
+        "Brand Name": "Methylprednisolone tabs",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Oral Contraceptive - Biphasic",
+        "Brand Name": "Oral Contraceptive",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Breast tenderness"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Oral Contraceptive - Monophasic",
+        "Brand Name": "Oral Contraceptive",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Breast tenderness"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Oral Contraceptive - Triphasic",
+        "Brand Name": "Oral Contraceptive",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Breast tenderness"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Pioglitazone",
+        "Brand Name": "Actos",
+        "Side Effect 1": "Edema (swelling)",
+        "Side Effect 2": "Weight gain"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Potassium Chloride",
+        "Brand Name": "Klor-Con",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Diarrhea"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Potassium Iodide",
+        "Brand Name": "SSKI",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Metallic taste in the mouth"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Prednisolone Oral",
+        "Brand Name": "Prednisolone sd phs oral",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Prednisone",
+        "Brand Name": "Prednisone oral",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Increased appetite"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Prenatal 1+1",
+        "Brand Name": "Prenatal 1+1",
+        "Side Effect 1": "Constipation",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Progesterone",
+        "Brand Name": "Prometrium",
+        "Side Effect 1": "Breast tenderness",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Raloxifene",
+        "Brand Name": "Evista",
+        "Side Effect 1": "Hot flashes",
+        "Side Effect 2": "Leg cramps"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Repaglinide",
+        "Brand Name": "Prandin",
+        "Side Effect 1": "Hypoglycemia (low blood sugar)",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Risedronate",
+        "Brand Name": "Actonel",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Difficulty swallowing"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Rosiglitazone",
+        "Brand Name": "Avandia",
+        "Side Effect 1": "Edema (swelling)",
+        "Side Effect 2": "Weight gain"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Saxagliptin",
+        "Brand Name": "Onglyza",
+        "Side Effect 1": "Upper respiratory tract infection",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Sitagliptin",
+        "Brand Name": "Januvia",
+        "Side Effect 1": "Upper respiratory tract infection",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Testosterone",
+        "Brand Name": "AndroGel",
+        "Side Effect 1": "Acne",
+        "Side Effect 2": "Mood swings"
+    },
+    {
+        "Medication Category": "Endocrine Agents",
+        "Generic Name": "Thyroid",
+        "Brand Name": "Thyroid, Armour",
+        "Side Effect 1": "Hair loss",
+        "Side Effect 2": "Weight changes"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Darifenacin",
+        "Brand Name": "Enablex",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Dexlansoprazole",
+        "Brand Name": "Dexilant",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Abdominal pain"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Diphenoxylate/Atropine",
+        "Brand Name": "Diphenoxylate w/atropine",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Esomeprazole",
+        "Brand Name": "Nexium",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Famotidine",
+        "Brand Name": "Famotidine",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Finasteride",
+        "Brand Name": "Finasteride",
+        "Side Effect 1": "Erectile dysfunction",
+        "Side Effect 2": "Decreased libido"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Lansoprazole",
+        "Brand Name": "Prevacid",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Abdominal pain"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Lubiprostone",
+        "Brand Name": "Amitiza",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Diarrhea"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Metoclopramide",
+        "Brand Name": "Metoclopramide",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Restlessness"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Omeprazole",
+        "Brand Name": "Omeprazole",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Abdominal pain"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Ondansetron",
+        "Brand Name": "Ondansetron",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Pantoprazole",
+        "Brand Name": "Pantoprazole",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Abdominal pain"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Phenazopyridine",
+        "Brand Name": "Phenazopyridine HCl",
+        "Side Effect 1": "Orange or red discoloration of urine",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Polyethylene Glycol",
+        "Brand Name": "Polyethylene glycol",
+        "Side Effect 1": "Abdominal cramps",
+        "Side Effect 2": "Diarrhea"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Rabeprazole",
+        "Brand Name": "Aciphex",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Ranitidine",
+        "Brand Name": "Ranitidine HCl",
+        "Side Effect 1": "Constipation",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Gastrointestal Agents",
+        "Generic Name": "Tamsulosin",
+        "Brand Name": "Flomax",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Abnormal ejaculation"
+    },
+    {
+        "Medication Category": "Gastrointestinal Agents",
+        "Generic Name": "Tolterodine",
+        "Brand Name": "Detrol LA",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Adapalene",
+        "Brand Name": "Differin",
+        "Side Effect 1": "Skin dryness",
+        "Side Effect 2": "Redness"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Allopurinol",
+        "Brand Name": "Allopurinol",
+        "Side Effect 1": "Rash",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Anastrozole",
+        "Brand Name": "Arimidex",
+        "Side Effect 1": "Hot flashes",
+        "Side Effect 2": "Joint pain"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Bimatoprost Ophthalmic",
+        "Brand Name": "Lumigan",
+        "Side Effect 1": "Eye irritation",
+        "Side Effect 2": "Darkening of the eyelashes"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Brimonidine",
+        "Brand Name": "Alphagan P",
+        "Side Effect 1": "Burning or stinging in the eyes",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Clobetasol",
+        "Brand Name": "Clobetasol",
+        "Side Effect 1": "Burning or itching",
+        "Side Effect 2": "Skin thinning"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Clotrimazole/Betamethasone",
+        "Brand Name": "Clotrimazole/betameth.",
+        "Side Effect 1": "Itching or burning",
+        "Side Effect 2": "Rash"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Colchicine",
+        "Brand Name": "Colchicine",
+        "Side Effect 1": "Diarrhea",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Cyclosporine Ophthalmic",
+        "Brand Name": "Restasis",
+        "Side Effect 1": "Burning or stinging in the eyes",
+        "Side Effect 2": "Redness or itching"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Darbepoetin",
+        "Brand Name": "Aranesp",
+        "Side Effect 1": "Hypertension (high blood pressure)",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Epinephrine",
+        "Brand Name": "Epipen",
+        "Side Effect 1": "Nervousness",
+        "Side Effect 2": "Increased heart rate"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Epoetin Alfa",
+        "Brand Name": "Procrit",
+        "Side Effect 1": "Hypertension (high blood pressure)",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Fluocinonide",
+        "Brand Name": "Fluocinonide",
+        "Side Effect 1": "Burning or itching",
+        "Side Effect 2": "Acne"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Fubuxostat",
+        "Brand Name": "Uloric",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Joint pain"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Hydrocortisone Topical",
+        "Brand Name": "Hydrocortisone top Rx",
+        "Side Effect 1": "Burning or itching",
+        "Side Effect 2": "Acne"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Latanoprost",
+        "Brand Name": "Xalatan",
+        "Side Effect 1": "Darkening of the eyelashes",
+        "Side Effect 2": "Eye irritation"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Loteprednol Ophthalmic",
+        "Brand Name": "Lotemax",
+        "Side Effect 1": "Eye irritation",
+        "Side Effect 2": "Blurred vision"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Methotrexate",
+        "Brand Name": "Methotrexate",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Fatigue"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Sildenafil",
+        "Brand Name": "Viagra",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Flushing"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Tacrolimus",
+        "Brand Name": "Tacrolimus",
+        "Side Effect 1": "Burning or itching at the application site",
+        "Side Effect 2": "Increased sensitivity to sunlight"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Tadalafil",
+        "Brand Name": "Cialis",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Flushing"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Travoprost",
+        "Brand Name": "Travatan Z",
+        "Side Effect 1": "Darkening of the eyelashes",
+        "Side Effect 2": "Eye irritation"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Triamcinolone Topical",
+        "Brand Name": "Triamcinolone acet top",
+        "Side Effect 1": "Burning or itching",
+        "Side Effect 2": "Acne"
+    },
+    {
+        "Medication Category": "Miscellaneous Agents",
+        "Generic Name": "Vardenafil",
+        "Brand Name": "Levitra",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Flushing"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Tizanidine",
+        "Brand Name": "Tizanidine HCl",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Alprazolam",
+        "Brand Name": "Alprazolam",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Amitriptyline",
+        "Brand Name": "Amitriptyline",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Aripiprazole",
+        "Brand Name": "Abilify",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Weight gain"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Atomoxetine",
+        "Brand Name": "Strattera",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Baclofen",
+        "Brand Name": "Baclofen",
+        "Side Effect 1": "Weakness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Benzonatate",
+        "Brand Name": "Benzonatate",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Benztropine",
+        "Brand Name": "Benztropine",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Blurred vision"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Bupropion",
+        "Brand Name": "Bupropion ER",
+        "Side Effect 1": "Insomnia",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Buspirone",
+        "Brand Name": "Buspirone HCl",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Carbamazepine",
+        "Brand Name": "Carbamazepine",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Carbidopa/Levodopa",
+        "Brand Name": "Carbidopa/levodopa",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Citalopram",
+        "Brand Name": "Citalopram HBR",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Clobazam",
+        "Brand Name": "Onfi",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Upper respiratory tract infection"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Clonazepam",
+        "Brand Name": "Clonazepam",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Loss of coordination"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Desvenlafaxine",
+        "Brand Name": "Pristiq",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Diazepam",
+        "Brand Name": "Diazepam",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Loss of coordination"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Furosemide",
+        "Brand Name": "Furosemide oral",
+        "Side Effect 1": "Increased urination",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Gemfibrozil",
+        "Brand Name": "Gemfibrozil",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Hydralazine",
+        "Brand Name": "Hydralazine",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Loss of appetite"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Hydrochlorothiazide",
+        "Brand Name": "Hydrochlorothiazide",
+        "Side Effect 1": "Increased urination",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Irbesartan",
+        "Brand Name": "Avapro",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Lightheadedness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Isosorbide Mononitrate",
+        "Brand Name": "Isosorbide mononitrate",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Labetalol",
+        "Brand Name": "Labetalol",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Weakness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Lisinopril",
+        "Brand Name": "Lisinopril",
+        "Side Effect 1": "Cough",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Losartan",
+        "Brand Name": "Cozaar",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Fatigue"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Lovastatin",
+        "Brand Name": "Lovastatin",
+        "Side Effect 1": "Muscle pain",
+        "Side Effect 2": "Weakness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Metoprolol",
+        "Brand Name": "Metoprolol succinate",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Fatigue"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Nebivolol",
+        "Brand Name": "Bystolic",
+        "Side Effect 1": "Fatigue",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Niacin",
+        "Brand Name": "Niaspan",
+        "Side Effect 1": "Flushing",
+        "Side Effect 2": "Upset stomach"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Nifedipine",
+        "Brand Name": "Nifedipine ER",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Flushing"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Nitroglycerin",
+        "Brand Name": "Nitroglycerin",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Olmesartan",
+        "Brand Name": "Benicar",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Diarrhea"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Omega-3-Ethyl Esters",
+        "Brand Name": "Lovaza",
+        "Side Effect 1": "Upset stomach",
+        "Side Effect 2": "Burping"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Prasugrel",
+        "Brand Name": "Effient",
+        "Side Effect 1": "Bleeding",
+        "Side Effect 2": "Shortness of breath"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Pravastatin",
+        "Brand Name": "Pravastatin",
+        "Side Effect 1": "Muscle pain",
+        "Side Effect 2": "Weakness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Propranolol",
+        "Brand Name": "Propranolol HCl",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Fatigue"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Quinapril",
+        "Brand Name": "Quinapril",
+        "Side Effect 1": "Cough",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Ramipril",
+        "Brand Name": "Ramipril",
+        "Side Effect 1": "Cough",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Ranolazine",
+        "Brand Name": "Ranexa",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Rivaroxaban",
+        "Brand Name": "Xarelto",
+        "Side Effect 1": "Bleeding",
+        "Side Effect 2": "Bruising"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Rosuvistatin",
+        "Brand Name": "Crestor",
+        "Side Effect 1": "Muscle pain",
+        "Side Effect 2": "Abdominal pain"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Simvastatin",
+        "Brand Name": "Simvastatin",
+        "Side Effect 1": "Muscle pain",
+        "Side Effect 2": "Weakness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Spironolactone",
+        "Brand Name": "Spironolactone",
+        "Side Effect 1": "Increased urination",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Terazosin",
+        "Brand Name": "Terazosin",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Fatigue"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Tolvaptan",
+        "Brand Name": "Samsca",
+        "Side Effect 1": "Thirst",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Triamterene/Hydrochlorothiazide",
+        "Brand Name": "Triamterene w/HCTZ",
+        "Side Effect 1": "Increased urination",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Valsartan",
+        "Brand Name": "Diovan",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Fatigue"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Verapamil",
+        "Brand Name": "Verapamil SR",
+        "Side Effect 1": "Constipation",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Cardiovascular Agents",
+        "Generic Name": "Warfarin",
+        "Brand Name": "Warfarin",
+        "Side Effect 1": "Bleeding",
+        "Side Effect 2": "Bruising"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Albuterol",
+        "Brand Name": "ProAir HFA",
+        "Side Effect 1": "Shakiness",
+        "Side Effect 2": "Increased heart rate"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Azelastine",
+        "Brand Name": "Astelin",
+        "Side Effect 1": "Bitter taste",
+        "Side Effect 2": "Nosebleeds"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Budesonide",
+        "Brand Name": "Pulmicort Respules",
+        "Side Effect 1": "Hoarseness",
+        "Side Effect 2": "Cough"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Budesonide/Formoterol",
+        "Brand Name": "Symbicort",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Tremor"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Cetirizine",
+        "Brand Name": "Cetirizine",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Fexofenadine",
+        "Brand Name": "Fexofenadine",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Fluticasone Nasal",
+        "Brand Name": "Fluticasone nasal",
+        "Side Effect 1": "Nosebleeds",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Fluticasone Oral",
+        "Brand Name": "Flovent HFA",
+        "Side Effect 1": "Sore throat",
+        "Side Effect 2": "Hoarseness"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Fluticasone/Salmeterol",
+        "Brand Name": "Advair Diskus",
+        "Side Effect 1": "Thrush (yeast infection in the mouth)",
+        "Side Effect 2": "Hoarseness"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Hydroxyzine",
+        "Brand Name": "Hydroxyzine",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Ipratropium/Albuterol",
+        "Brand Name": "Combivent",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Levalbuterol",
+        "Brand Name": "Xopenex HFA",
+        "Side Effect 1": "Shakiness",
+        "Side Effect 2": "Increased heart rate"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Levocetirizine",
+        "Brand Name": "Xyzal",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Mometasone",
+        "Brand Name": "Nasonex",
+        "Side Effect 1": "Nosebleeds",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Montelukast",
+        "Brand Name": "Singulair",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Abdominal pain"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Olopatadine",
+        "Brand Name": "Patanol",
+        "Side Effect 1": "Eye irritation",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Tiotropium",
+        "Brand Name": "Spiriva",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Respiratory Agents",
+        "Generic Name": "Triamcinolone Nasal",
+        "Brand Name": "Nasacort AQ",
+        "Side Effect 1": "Nosebleeds",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Dexmethylphenidate",
+        "Brand Name": "Focalin XR",
+        "Side Effect 1": "Insomnia",
+        "Side Effect 2": "Decreased appetite"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Dicyclomine",
+        "Brand Name": "Dicyclomine HCl",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Blurred vision"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Divalproex",
+        "Brand Name": "Divalproex sodium",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Donepezil",
+        "Brand Name": "Aricept",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Doxepin",
+        "Brand Name": "Doxepin",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Duloxetine",
+        "Brand Name": "Cymbalta",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Dutasteride",
+        "Brand Name": "Avodart",
+        "Side Effect 1": "Impotence",
+        "Side Effect 2": "Decreased libido"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Eletriptan",
+        "Brand Name": "Relpax",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Escitalopram",
+        "Brand Name": "Lexapro",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Eszopiclone",
+        "Brand Name": "Lunesta",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Fluoxetine",
+        "Brand Name": "Fluoxetine",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Gabapentin",
+        "Brand Name": "Gabapentin",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Lacosamide",
+        "Brand Name": "Vimpat",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Lamotrigine",
+        "Brand Name": "Lamotrigine",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Levetiracetam",
+        "Brand Name": "Levetiracetam",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Weakness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Lisdexamfetamine",
+        "Brand Name": "Vyvanse",
+        "Side Effect 1": "Insomnia",
+        "Side Effect 2": "Decreased appetite"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Lithium carbonate",
+        "Brand Name": "Lithium carbonate",
+        "Side Effect 1": "Hand tremor",
+        "Side Effect 2": "Increased thirst"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Lorazepam",
+        "Brand Name": "Lorazepam",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Loss of coordination"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Meclizine",
+        "Brand Name": "Meclizine HCl",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Memantine",
+        "Brand Name": "Namenda",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Headache"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Metaxalone",
+        "Brand Name": "Skelaxin",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Methylphenidate",
+        "Brand Name": "Methylphenidate",
+        "Side Effect 1": "Insomnia",
+        "Side Effect 2": "Decreased appetite"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Mirtazapine",
+        "Brand Name": "Mirtazapine",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Increased appetite"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Modafinil",
+        "Brand Name": "Provigil",
+        "Side Effect 1": "Headache",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Nortriptyline",
+        "Brand Name": "Nortriptyline",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Olanzapine",
+        "Brand Name": "Zyprexa",
+        "Side Effect 1": "Weight gain",
+        "Side Effect 2": "Increased appetite"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Oxcarbazepine",
+        "Brand Name": "Oxcarbazepine",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Oxybutynin",
+        "Brand Name": "Oxybutynin chloride",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Paroxetine",
+        "Brand Name": "Paroxetine",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Phenobarbital",
+        "Brand Name": "Phenobarbital",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Phentermine",
+        "Brand Name": "Phentermine",
+        "Side Effect 1": "Increased heart rate",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Phenytoin",
+        "Brand Name": "Phenytoin sodium ext",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Pramipexole",
+        "Brand Name": "Mirapex",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Pregabalin",
+        "Brand Name": "Lyrica",
+        "Side Effect 1": "Dizziness",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Prochlorperazine",
+        "Brand Name": "Prochlorperazine maleate",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Promethazine",
+        "Brand Name": "Promethazine tabs",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Quetiapine",
+        "Brand Name": "Seroquel",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Weight gain"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Risperidone",
+        "Brand Name": "Risperidone",
+        "Side Effect 1": "Weight gain",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Ropinirole",
+        "Brand Name": "Ropinirole HCl",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Drowsiness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Sertraline",
+        "Brand Name": "Sertraline",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Solifenacin",
+        "Brand Name": "Vesicare",
+        "Side Effect 1": "Dry mouth",
+        "Side Effect 2": "Constipation"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Temazepam",
+        "Brand Name": "Temazepam",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Topiramate",
+        "Brand Name": "Topiramate",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Nausea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Trazodone",
+        "Brand Name": "Trazodone HCl",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dry mouth"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Varenicline",
+        "Brand Name": "Chantix",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Venlafaxine",
+        "Brand Name": "Venlafaxine",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Insomnia"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Vilazodone",
+        "Brand Name": "Viibryd",
+        "Side Effect 1": "Nausea",
+        "Side Effect 2": "Diarrhea"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Ziprasidone",
+        "Brand Name": "Geodon Oral",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    },
+    {
+        "Medication Category": "Neurologic Agents",
+        "Generic Name": "Zolpidem",
+        "Brand Name": "Zolpidem tartrate",
+        "Side Effect 1": "Drowsiness",
+        "Side Effect 2": "Dizziness"
+    }
+]
