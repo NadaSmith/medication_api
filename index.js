@@ -28,8 +28,11 @@ app.get('/side-effects/generic/:genericName', (req, res) => {
     const medication = medicationData.find((medication) => medication["Generic Name"] === genericName);
 
     if (medication) {
-        res.json(medication['Side Effects'] || []);
+        //access specific side effect properties
+        const sideEffects = [medication['Side Effect 1'], medication["Side Effect 2"]].filter(Boolean);
+        res.json(sideEffects);
     } else {
+        console.log('Medication not found for the generic name:', genericName);
         res.json([])
     }
 })
@@ -40,8 +43,11 @@ app.get('/side-effects/brand/:brandName', (req, res) => {
     const medication = medicationData.find((medication) => medication["Brand Name"] === brandName);
 
     if (medication) {
-        res.json(medication['Side Effects'] || []);
+        //access specific side effect properties
+        const sideEffects = [medication['Side Effect 1'], medication["Side Effect 2"]].filter(Boolean);
+        res.json(sideEffects);
     } else {
+        console.log('Medication not found for the brand name:', brandName);
         res.json([])
     }
 })
